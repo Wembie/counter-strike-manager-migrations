@@ -34,6 +34,10 @@ MAX_OPEN_CONN=1
     set -a && source .env
     ```
 4. Run the migrations as described in the project documentation.
+5. Run main.go
+    ```bash
+    go run src/main.go
+    ```
 
 ## License
 
