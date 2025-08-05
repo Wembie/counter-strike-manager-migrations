@@ -1,4 +1,4 @@
-CREATE database counter_strike;
+--CREATE database counter_strike;
 
 -- +goose Up
 -- +goose StatementBegin
